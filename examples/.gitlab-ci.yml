@@ -1,0 +1,11 @@
+# Drop-in GitLab CI template for spfguard-cli (v1.1.0)
+stages:
+  - contract_gates
+
+spfguard_cli_gate:
+  stage: contract_gates
+  image: python:3.12-slim
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+  script:
+    - python3 spfguard_cli.py --help
