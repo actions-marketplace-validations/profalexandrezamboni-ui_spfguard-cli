@@ -1,0 +1,5 @@
+- id: spfguard-10-lookup-gate
+  name: "SPFGuard RFC 7208 10-Lookup & MTA-STS Gate"
+  entry: spfguard-cli
+  language: python
+  pass_filenames: false
