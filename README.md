@@ -4,6 +4,9 @@
 
 **SPFGuard** is a zero-LLM, GitOps-native CLI and GitHub Action that diagnoses `SPF PermError: Too Many DNS Lookups` (RFC 7208 Section 4.6.4 ceiling of 10), flattens recursive third-party `include:` chains into zero-lookup `ip4:`/`ip6:` CIDRs without delegating authoritative DNS to external SaaS hosts, and generates RFC 8461 MTA-STS + RFC 8460 TLS-RPT policy bundles.
 
+- **Zero-Click Live SPF & MTA-STS Demo (Runs Instantly):** https://specgate.profalexandrezamboni.workers.dev/?demo=spfguard
+- **Free Zero-Login Remote MCP Server (`/mcp`) for Cursor, Claude Code & VS Code:** https://specgate.profalexandrezamboni.workers.dev/integrations/mcp-server-cursor-claude-code
+- **Terraform & Cloudflare DNS GitOps Blueprint:** https://specgate.profalexandrezamboni.workers.dev/integrations/terraform-cloudflare-spf-mta-sts
 - **Interactive SPF 10-Lookup Flattener:** https://specgate.profalexandrezamboni.workers.dev/tools/spf-10-lookup-flattener
 - **Comparison: SPFGuard vs. EasyDMARC vs. dmarcian:** https://specgate.profalexandrezamboni.workers.dev/compare/spfguard-vs-easydmarc-vs-dmarcian-spf-flattening
 - **Full Technical Reference (`llms-full.txt`):** https://specgate.profalexandrezamboni.workers.dev/llms-full.txt
