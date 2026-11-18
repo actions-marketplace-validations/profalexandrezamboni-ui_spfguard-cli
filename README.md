@@ -6,6 +6,7 @@
 
 - **Zero-Click Live SPF & MTA-STS Demo (Runs Instantly):** https://specgate.profalexandrezamboni.workers.dev/?demo=spfguard
 - **Free Zero-Login Remote MCP Server (`/mcp`) for Cursor, Claude Code & VS Code:** https://specgate.profalexandrezamboni.workers.dev/integrations/mcp-server-cursor-claude-code
+- **Native OASIS SARIF v2.1.0 Export for GitHub Code Scanning:** https://specgate.profalexandrezamboni.workers.dev/integrations/github-code-scanning-sarif-ci-gate
 - **Terraform & Cloudflare DNS GitOps Blueprint:** https://specgate.profalexandrezamboni.workers.dev/integrations/terraform-cloudflare-spf-mta-sts
 - **Interactive SPF 10-Lookup Flattener:** https://specgate.profalexandrezamboni.workers.dev/tools/spf-10-lookup-flattener
 - **Comparison: SPFGuard vs. EasyDMARC vs. dmarcian:** https://specgate.profalexandrezamboni.workers.dev/compare/spfguard-vs-easydmarc-vs-dmarcian-spf-flattening
