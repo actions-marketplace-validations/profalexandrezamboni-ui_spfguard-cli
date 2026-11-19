@@ -4,15 +4,15 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "spfguard-cli"
-version = "1.1.0"
-description = "SPFGuard RFC 7208 10-Lookup & MTA-STS Gate — Deterministic zero-LLM CI/CD & pre-commit gate"
+version = "1.2.0"
+description = "SPFGuard RFC 7208 10-Lookup & MTA-STS Gate — Deterministic zero-LLM CI/CD, pre-commit & SARIF v2.1.0 gate"
 readme = "README.md"
 requires-python = ">=3.9"
 license = {text = "MIT"}
 dependencies = []
 
 [project.urls]
-Homepage = "https://specgate.profalexandrezamboni.workers.dev/integrations/pre-commit-uvx-gitlab-ci"
+Homepage = "https://specgate.profalexandrezamboni.workers.dev/integrations/github-code-scanning-sarif-ci-gate"
 Repository = "https://github.com/profalexandrezamboni-ui/spfguard-cli"
 
 [project.scripts]
