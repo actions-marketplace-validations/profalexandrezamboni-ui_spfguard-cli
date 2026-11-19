@@ -1,4 +1,4 @@
-# Drop-in GitLab CI template for spfguard-cli (v1.1.0)
+# Drop-in GitLab CI template for spfguard-cli (v1.2.0)
 stages:
   - contract_gates
 
