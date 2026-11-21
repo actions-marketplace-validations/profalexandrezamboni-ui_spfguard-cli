@@ -7,6 +7,7 @@
 - **Zero-Click Live SPF & MTA-STS Demo (Runs Instantly):** https://specgate.profalexandrezamboni.workers.dev/?demo=spfguard
 - **Free Zero-Login Remote MCP Server (`/mcp`) for Cursor, Claude Code & VS Code:** https://specgate.profalexandrezamboni.workers.dev/integrations/mcp-server-cursor-claude-code
 - **Native OASIS SARIF v2.1.0 Export for GitHub Code Scanning:** https://specgate.profalexandrezamboni.workers.dev/integrations/github-code-scanning-sarif-ci-gate
+- **Fix Google Workspace + Microsoft 365 + SendGrid SPF PermError (>10 Lookups):** https://specgate.profalexandrezamboni.workers.dev/integrations/google-workspace-microsoft-365-sendgrid-spf-permerror-fix
 - **AWS Route53 & Amazon SES Terraform Blueprint:** https://specgate.profalexandrezamboni.workers.dev/integrations/aws-route53-ses-spf-dmarc-mta-sts
 - **Terraform & Cloudflare DNS GitOps Blueprint:** https://specgate.profalexandrezamboni.workers.dev/integrations/terraform-cloudflare-spf-mta-sts
 - **Interactive SPF 10-Lookup Flattener:** https://specgate.profalexandrezamboni.workers.dev/tools/spf-10-lookup-flattener
